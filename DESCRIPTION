@@ -1,0 +1,9 @@
+Package: testupload
+Type: Package
+Title: gets the cube of a number
+Version: 1.0
+Date: 2015-03-30
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: cube cube cube
+License: What license is it under?
